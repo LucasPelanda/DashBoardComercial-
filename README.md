@@ -4,10 +4,11 @@ Crie seu abiente virtual:
 
 No Mac:
 
-
+''' python 
 python3 -m venv venv
 
 source venv/bin/activate
+'''
 
 no Windows:
 
@@ -27,3 +28,5 @@ streamlit --version
 Rodar: 
 
 streamlit run Dashboard.py  
+
+Estou ousando o Python 3.13.3(.venv) 
