@@ -1,19 +1,7 @@
 Vá até a pasta do projeto ->
 
-Crie seu abiente virtual: 
+Crie seu abiente virtual ->
 
-No Mac:
-
-python3 -m venv venv
-
-source venv/bin/activate
-
-no Windows:
-
-
-python -m venv venv
-
-venv\Scripts\activate
 
 Instalar os requerimentos:
 
