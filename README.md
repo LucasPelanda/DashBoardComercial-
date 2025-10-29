@@ -1,16 +1,7 @@
 Vá até a pasta do projeto ->
 
-Crie seu abiente virtual: 
+Crie seu abiente virtual ->
 
-Como eu crio no Mac:
-
-python3 -m venv venv
-source venv/bin/activate
-
-no Windows:
-
-python -m venv venv
-venv\Scripts\activate
 
 Instalar os requerimentos:
 
@@ -23,3 +14,5 @@ streamlit --version
 Rodar: 
 
 streamlit run Dashboard.py  
+
+Estou ousando o Python 3.13.3(.venv) 
