@@ -7,3 +7,6 @@ __pycache__/
 .vscode/
 
 .DS_Store__pycache__/
+__pycache__/
+
+.gitignore  
